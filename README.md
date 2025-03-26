@@ -15,7 +15,8 @@
 ### ⚙️ **백엔드 & 프로그래밍**  
 ☕ Java & Spring Boot
 🐍 Python
-
+## 자격증 ##
+sqld 자격증 준비중
 ## 📈 GitHub 활동(연습)  
 https://github.com/choijunyoung0511
 
