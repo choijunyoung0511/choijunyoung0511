@@ -11,7 +11,7 @@
 ### 🏗 **빅데이터 & NoSQL**  
 📊 빅데이터 처리
 🗃 NoSQL 데이터베이스 
-
+🌱 자바,파이썬,c언어,sqld학습중
 ### ⚙️ **백엔드 & 프로그래밍**  
 ☕ Java & Spring Boot
 🐍 Python
