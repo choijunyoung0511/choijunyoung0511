@@ -22,6 +22,11 @@ https://github.com/choijunyoung0511
 ##📦 Tstory 블로그##
 https://www.tistory.com/member/blog
 
+
+##🌟notion##
+https://www.notion.so/Dashboard-1c780bd9fdde800a80b2c579ef4a61c6?pvs=4
+
+
 📊 **한이음 프로젝트**  
 🔹 한이음 프로젝트(메르핸드)
 
