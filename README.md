@@ -19,8 +19,6 @@
 sqld 자격증 준비중
 ## 📈 GitHub 활동(연습)  
 https://github.com/choijunyoung0511
-##📦 Tstory 블로그##
-https://www.tistory.com/member/blog
 
 
 ##🌟notion##
