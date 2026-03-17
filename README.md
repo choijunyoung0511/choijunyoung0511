@@ -20,6 +20,7 @@ sqld 자격증 준비중
 ## 📈 GitHub 활동(연습)  
 https://github.com/choijunyoung0511
 
+##한이음 장려상 수상##
 
 ##🌟notion##
 https://www.notion.so/Dashboard-1c780bd9fdde800a80b2c579ef4a61c6?pvs=4
@@ -28,8 +29,8 @@ https://www.notion.so/Dashboard-1c780bd9fdde800a80b2c579ef4a61c6?pvs=4
 📊 **한이음 프로젝트**  
 🔹 한이음 프로젝트(메르핸드)
 
-## 🎯 2025년 목표  
-✅ 여기있는 모든 학우 여러분과 동반성장 
+## 🎯 2026년 목표  
+✅ 개념 툭하면 툭 튀어나오기
 ✅ 포기하지 얺고 열심히 배우기
 ✅ 웹 사이트 만들어보기
 
