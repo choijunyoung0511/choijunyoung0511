@@ -19,6 +19,9 @@
 sqld 자격증 준비중
 ## 📈 GitHub 활동(연습)  
 https://github.com/choijunyoung0511
+##개인프로젝트(AI독서 플랫폼)
+https://from.it.kr/
+
 
 ##한이음 장려상 수상##
 
