@@ -1,48 +1,119 @@
-# 👨‍🔧 [최준영] | 빅데이터 & 클라우드 컴퓨팅 엔지니어 꿈나무  
+<div align="center">
 
-## 🚀 소개  
-🎓 **강서폴리텍 빅데이터 학과 2학년 재학 중**  
-    
-🔥 **빅데이터!!! 화이팅!**  
+# 👋 Hi, I'm Junyoung Choi
 
-## 🛠 기술 스택 및 전문 분야  
-### 📡 **아직은 없지만...**   
+### Backend & Cloud Engineer in Progress ☁️
 
-### 🏗 **빅데이터 & NoSQL**  
-📊 빅데이터 처리
-🗃 NoSQL 데이터베이스 
-🌱 자바,파이썬,c언어,sqld학습중
-### ⚙️ **백엔드 & 프로그래밍**  
-☕ Java & Spring Boot
-🐍 Python
-## 자격증 ##
-sqld 자격증 준비중
-## 📈 GitHub 활동(연습)  
-https://github.com/choijunyoung0511
-##개인프로젝트(AI독서 플랫폼)
-https://from.it.kr/
+🎓 Korea Polytechnics Seoul Gangseo Campus
+💻 Studying **Java, Spring Boot, Database, Cloud**
+🚀 Interested in **Backend · AI Service · Big Data**
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/choijunyoung0511)
+[![Notion](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=notion\&logoColor=white)](https://www.notion.so/Dashboard-1c780bd9fdde800a80b2c579ef4a61c6?pvs=4)
+[![Website](https://img.shields.io/badge/FROM_Service-4285F4?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://from.it.kr)
 
-##한이음 장려상 수상##
+</div>
 
-##🌟notion##
-https://www.notion.so/Dashboard-1c780bd9fdde800a80b2c579ef4a61c6?pvs=4
+---
 
+# 🚀 About Me
 
-📊 **한이음 프로젝트**  
-🔹 한이음 프로젝트(메르핸드)
+* 🌱 현재 **빅데이터소프트웨어과 재학 중**
+* 🔥 **Spring Boot 기반 백엔드 개발** 공부 중
+* ☁️ **AWS · Linux · Kubernetes** 학습 중
+* 🗄️ **MariaDB / MongoDB / Redis** 활용 경험
+* 🎯 목표: **백엔드 & 클라우드 엔지니어**
 
-## 🎯 2026년 목표  
-✅ 개념 툭하면 툭 튀어나오기
-✅ 포기하지 얺고 열심히 배우기
-✅ 웹 사이트 만들어보기
+---
 
-## 🌎 나와 연결하기  
-🔹[Instagram](#)
-## 📧 연락처  01046771332
-📩 **이메일:** yj766352@gmail.com  
-📍 **위치:** 서울시(강서구), 대한민국  
+# 🛠 Tech Stack
 
-🚀 *클라우드, AI, 빅데이터의 미래를 함께 함께 공부해 나가봐요!*  
+### 💻 Language
 
-## Hi there 👋
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,c,js" />
+</p>
+
+### ⚙️ Backend & Framework
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring" />
+</p>
+
+### 🗄 Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" />
+</p>
+
+### ☁️ Infra & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,nginx" />
+</p>
+
+### 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,figma" />
+</p>
+
+---
+
+# 📌 Main Project
+
+## 📚 FROM - AI Reading Platform
+
+> AI 기반 독서 플랫폼
+
+### 주요 기능
+
+✅ AI 독후감 생성
+✅ 독서 기록 및 랭킹 시스템
+✅ 책 추천 시스템
+✅ 이메일 인증 로그인
+✅ Redis 기반 랭킹
+
+### Tech
+
+`Spring Boot` `JPA` `MyBatis` `MariaDB` `MongoDB` `Redis` `AWS S3`
+
+🔗 https://from.it.kr/
+
+---
+
+# 🏆 Experience
+
+🥉 **한이음 프로젝트 장려상 수상**
+
+📊 **한이음 프로젝트 - 메르핸드 참여**
+
+---
+
+# 📚 Currently Learning
+
+```txt
+Java & Spring Boot
+Database Design
+SQLD
+정보처리산업기사
+Kubernetes
+Cloud Computing
+```
+
+---
+
+# 📈 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=choijunyoung0511\&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choijunyoung0511\&layout=compact)
+
+---
+
+# 🎯 2026 Goal
+
+* 백엔드 개발 역량 강화
+* 클라우드 환경 이해
+* 프로젝트 완성도 높이기
+* 꾸준히 성장하기 🚀
