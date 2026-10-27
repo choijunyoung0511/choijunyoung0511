@@ -1,199 +1,97 @@
-<div align="center">
+<h2>Junyoung Choi</h2>
 
-# 👋 Hi, I'm Junyoung Choi
-
-### Backend Developer & Cloud Engineer in Progress ☁️
-
-**"포기하지 않고 끝까지 구현하는 개발자"**
-
-🎓 Korea Polytechnics Seoul Gangseo Campus
-💻 Building with **Java · Spring Boot · Database · Cloud**
-🚀 Interested in **Backend · AI Service · Big Data**
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/choijunyoung0511)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=notion\&logoColor=white)](https://www.notion.so/Dashboard-1c780bd9fdde800a80b2c579ef4a61c6?pvs=4)
-[![FROM](https://img.shields.io/badge/FROM_Service-4285F4?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://from.it.kr)
-
-</div>
-
----
-
-## 🚀 About Me
-
-```yaml
-Name: Junyoung Choi
-Role: Backend Developer (Learning)
-Major: Big Data Software
-Interest:
-  - Backend Development
-  - Cloud Computing
-  - Database Architecture
-  - AI Service
-```
-
-* 🌱 **Java & Spring Boot 기반 백엔드 개발 학습**
-* ☁️ **AWS · Linux · Kubernetes · Nginx 환경 경험**
-* 🗄️ **MariaDB · MongoDB · Redis 활용 경험**
-* 🔥 **문제가 생기면 끝까지 해결하며 성장하는 개발자**
-* 🎯 목표: **클라우드 기반 백엔드 엔지니어**
-
----
-
-## 🛠 Tech Stack
-
-### 💻 Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,c,js" />
+<p>
+Backend Developer · Java / Spring Boot · Cloud<br>
+문제가 생기면 끝까지 파고들어 해결하는 개발자입니다.
 </p>
 
-### ⚙️ Backend & Framework
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=spring" />
-</p>
-
-### 🗄 Database
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" />
-</p>
-
-### ☁️ Infra & DevOps
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,nginx" />
-</p>
-
-### 🛠 Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,figma" />
+<p>
+<a href="mailto:yj766352@gmail.com"><img src="https://img.shields.io/badge/Email-yj766352@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://www.notion.so/Dashboard-1c780bd9fdde800a80b2c579ef4a61c6?pvs=4"><img src="https://img.shields.io/badge/Portfolio-Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+<a href="https://from.it.kr"><img src="https://img.shields.io/badge/Live-from.it.kr-4285F4?style=flat-square&logo=googlechrome&logoColor=white"/></a>
 </p>
 
 ---
 
-## 📌 Featured Projects
+### About
 
-# 📚 FROM - AI Reading Platform
+- 한국폴리텍대학 서울강서캠퍼스 빅데이터소프트웨어과
+- Spring Boot 기반 백엔드 개발, 클라우드 환경(AWS · NCP · K-PaaS) 배포 경험
+- 관심 분야: **Backend Architecture**, **Cloud Infrastructure**, **AI 서비스 연동**
+- 목표: 트래픽과 장애를 이해하는 클라우드 기반 백엔드 엔지니어
 
-> AI 기반 독서 지원 플랫폼
+---
 
-### ✨ 주요 기능
+### Tech Stack
 
-* 🤖 Claude 기반 AI 독후감 생성
-* 📖 독서 기록 및 독후감 관리
-* 🏆 Redis 기반 독서 랭킹 시스템
-* 📚 알라딘 API 기반 도서 검색
-* ☁️ AWS S3 이미지 저장
+| Category | Stack |
+|:--|:--|
+| **Language** | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) |
+| **Backend** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white) ![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat-square) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) |
+| **Database** | ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| **Infra** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| **AI / API** | ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
 
-### 🛠 Tech
+---
+
+### Projects
+
+#### FROM — AI 독서 지원 플랫폼 &nbsp; [![Live](https://img.shields.io/badge/Live-from.it.kr-4285F4?style=flat-square)](https://from.it.kr)
+
+독서 기록을 남기면 AI가 독후감 작성을 돕고, 읽은 양에 따라 랭킹을 제공하는 서비스입니다. 기획부터 배포·운영까지 진행했습니다.
+
+- Claude API를 활용한 AI 독후감 생성
+- Redis Sorted Set 기반 실시간 독서 랭킹
+- 알라딘 Open API 연동 도서 검색
+- AWS S3 이미지 업로드 및 저장
+- 정형 데이터(MariaDB)와 비정형 데이터(MongoDB) 분리 저장
 
 `Spring Boot` `JPA` `MyBatis` `MariaDB` `MongoDB` `Redis` `AWS S3`
 
-🔗 https://from.it.kr/
+<br>
 
----
+#### Märchand (메르핸드) — 동화 기반 수어 학습 서비스
 
-# 🖐️ Märchand (메르핸드)
+> 🏆 ICT 한이음 드림업 프로젝트 **장려상**
 
-> 모션 인식 + 생성형 AI 기반 동화 수어 학습 서비스
+청각장애 아동이 동화를 읽으며 수어를 배우고, 웹캠으로 직접 따라 하며 실습할 수 있는 교육 플랫폼입니다.
 
-청각장애 아동을 위한 **동화 기반 수어 교육 플랫폼**
+- 웹캠 모션 인식 + TensorFlow 모델 기반 수어 인식 (Flask 추론 서버 분리)
+- ChatGPT API로 동화 생성, Leonardo.AI로 삽화 자동 생성
+- 수어 퀴즈 및 학습 달성도 관리
+- NCP Object Storage 기반 미디어 저장
 
-### ✨ 주요 기능
+`Spring Boot` `MariaDB` `Flask` `TensorFlow` `ChatGPT API` `NCP`
 
-* 📖 동화 기반 수어 학습
-* 🎥 웹캠 모션 인식 수어 실습
-* 🧠 TensorFlow 기반 수어 번역
-* 🤖 ChatGPT 기반 동화 생성
-* 🎨 Leonardo.AI 삽화 자동 생성
-* ⭐ 수어 퀴즈 및 학습 달성도 시스템
+<br>
 
-### 🛠 Tech
+#### Agreeya — AI 국제 근로계약 위험 분석 플랫폼
 
-`Spring Boot` `MariaDB` `TensorFlow` `Flask` `ChatGPT API` `NCP` `Object Storage`
+> K-PaaS 공모전 출품작
 
-🏆 **ICT 한이음 드림업 프로젝트 장려상 수상**
+근로계약서를 업로드하면 OCR로 텍스트를 추출하고, AI가 법적 위험 조항을 분석해 개선된 계약서 초안을 제안합니다.
 
----
-
-# 🌍 Agreeya
-
-> AI 기반 국제 근로계약 위험 분석 및 생성 플랫폼
-
-국제 근로계약서를 업로드하면
-AI가 **법적 리스크를 분석하고 개선 계약서를 생성**하는 플랫폼
-
-### ✨ 주요 기능
-
-* 📄 OCR 기반 계약서 텍스트 추출
-* ⚠️ GPT 기반 계약 위험요소 분석
-* 📚 LangChain 기반 유사 계약 사례 추천
-* 🤖 AI 계약서 초안 자동 생성
-* 💬 Q&A 법률 챗봇
-* 🤝 AI 모의 협상 시뮬레이션
-* 🌐 다국어 계약 분석 및 번역 지원
-
-### 🛠 Tech
+- Google Vision OCR 기반 계약서 텍스트 추출
+- GPT 기반 위험 조항 분석 및 계약서 초안 생성
+- LangChain 기반 유사 계약 사례 검색, 법률 Q&A 챗봇
+- AI 모의 협상 시뮬레이션, 다국어 분석·번역
+- Kubernetes(K-PaaS) 환경 배포
 
 `Spring Boot` `MySQL` `OpenAI API` `Google Vision OCR` `LangChain` `Kubernetes` `K-PaaS`
 
-🚀 **K-PaaS 공모전 출품 프로젝트**
+---
+
+### Currently
+
+- Spring Boot 아키텍처 및 데이터베이스 모델링 심화
+- Kubernetes 운영 · 클라우드 인프라 설계 학습
+- SQLD · 정보처리산업기사 준비 중
 
 ---
 
-## 🏆 Experience
+### GitHub Stats
 
-🥉 **ICT 한이음 드림업 프로젝트 장려상 수상**
-🚀 **K-PaaS 공모전 프로젝트 진행**
-
----
-
-## 📚 Currently Learning
-
-```txt
-Spring Boot Architecture
-Database Modeling
-SQLD
-정보처리산업기사
-Kubernetes
-Cloud Infrastructure
-```
-
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=choijunyoung0511&theme=tokyonight" />
+<p>
+  <img src="https://streak-stats.demolab.com/?user=choijunyoung0511&theme=github-dark-blue&hide_border=true" height="160"/>
 </p>
-
----
-
-## 🎯 2026 Goals
-
-* Backend 역량 강화
-* Kubernetes 실전 경험
-* 클라우드 아키텍처 이해
-* 완성도 높은 서비스 만들기
-* 꾸준히 성장하기 🚀
-
----
-
-## 📫 Contact
-
-📧 **Email**
-[yj766352@gmail.com](mailto:yj766352@gmail.com)
-
-🌐 **Portfolio**
-https://www.notion.so/Dashboard-1c780bd9fdde800a80b2c579ef4a61c6?pvs=4
-
-💻 **GitHub**
-https://github.com/choijunyoung0511
-
----
-
-> **"결과보다 성장, 포기하지 않고 끝까지 구현한다."**
